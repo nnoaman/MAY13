@@ -8,5 +8,5 @@ APPLICATION_CONFIGURATION_ID=/subscriptions/d6c8e3b6-467e-452e-97c9-49d9de9e37da
 CONTROL_PLANE_NAME=MAY13-NOEU-DEP13
 tfstate_resource_id=/subscriptions/d6c8e3b6-467e-452e-97c9-49d9de9e37da/resourceGroups/MAY13-NOEU-SAP_LIBRARY/providers/Microsoft.Storage/storageAccounts/may13noeutfstate213
 library_random_id=213
-step=5
+step=0
 ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
